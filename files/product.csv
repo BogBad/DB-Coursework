@@ -1,0 +1,111 @@
+name;category ;price;stock_quantity;provider_id
+Pur Source;food;172;5638;21
+Beef Wellington;food;258;4531;35
+Cheese - Wine;food;637;994;1
+Wine - Jafflin Bourgongone;food;598;5654;46
+Eggplant Oriental;food;278;632;44
+Lettuce - Red Leaf;food;792;5692;23
+Aromat Spice / Seasoning;food;350;9533;39
+Vinegar - Cider;food;67;3034;41
+Crab - Claws, Snow 16 - 24;food;566;3564;38
+Mortadella;food;682;5349;1
+Cheese - Sheep Milk;food;435;2364;2
+Cucumber - English;food;720;6274;46
+Contreau;food;340;3845;45
+Pasta - Penne Primavera, Single;food;288;4074;21
+Muffin - Bran Ind Wrpd;food;582;3751;43
+Beets - Golden;food;507;2056;46
+Wine - Clavet Saint Emilion;food;589;1947;21
+Beer - True North Lager;food;348;5830;28
+Chevril;food;10;267;15
+Soup - Campbells Chili;food;385;3947;25
+Tarragon - Primerba, Paste;food;377;2087;41
+Waffle Stix;food;108;4181;21
+Beef Ground Medium;food;830;5367;18
+Wine - Black Tower Qr;food;563;5439;25
+Cilantro / Coriander - Fresh;food;161;297;16
+Onions Granulated;food;445;6505;1
+Dikon;food;823;9995;1
+Mushroom - Portebello;food;131;3992;21
+Chervil - Fresh;food;270;1327;42
+Wine - Gato Negro Cabernet;food;734;1639;21
+Wine - Kwv Chenin Blanc South;food;21;1244;3
+Shopper Bag - S - 4;food;606;8885;42
+Chicken Thigh - Bone Out;food;936;9017;40
+Eggplant - Regular;food;60;2621;22
+Lemon Tarts;food;123;7767;37
+Banana - Green;food;616;5667;22
+Slt - Individual Portions;food;396;8993;22
+Pepper - Black, Ground;food;33;2383;12
+Cake Sheet Combo Party Pack;food;471;7101;23
+Pork - Butt, Boneless;food;830;6206;5
+Sparkling Wine - Rose, Freixenet;food;51;5784;6
+Tea Peppermint;food;65;8868;16
+Pepper - Orange;food;436;7041;32
+Squash - Pepper;food;721;282;8
+Vinegar - White Wine;food;779;5847;31
+Muffin Puck Ww Carrot;food;15;290;8
+Garbage Bag - Clear;food;771;9441;32
+Beans - Butter Lrg Lima;food;599;396;13
+Island Oasis - Strawberry;food;444;5308;12
+Muffin Mix - Raisin Bran;food;983;5870;7
+"Supercomputer ""Quantum Beast""";electronic;10000000;75;1
+"Professional Camera ""Pixel Master 9000""";electronic;5500;20;44
+"Smart Refrigerator ""SmartCool Pro""";electronic;2;22;3
+"Electric Scooter ""SpeedyScoot X1""";electronic;800;91;12
+"3D Printer ""PrintCraft Elite""";electronic;3500;48;25
+"High-Definition Action Camera ""ActionPro 4K""";electronic;300;67;24
+"Smart Watch ""TechTime Master""";electronic;400;38;12
+"Laser Engraver ""LaserCraft 5000""";electronic;600;92;24
+"Drone ""SkyExplorer Pro""";electronic;12002;57;37
+"Smartphone ""TechGuru X20""";electronic;1500;60;3
+"Waterproof Backpack ""AquaPack Adventure""";electronic;150;63;23
+"Virtual Reality Kit ""VR Supreme""";electronic;800;47;27
+"Premium Sound System ""SoundWave Deluxe""";electronic;879;67;30
+"Electric Skateboard ""E-Skate Blaze""";electronic;700;70;20
+"Professional Microphone ""AudioMaster Pro""";electronic;400;13;24
+"Smart Thermostat ""EcoHeat Smart""";electronic;250;95;1
+"Satellite Lamp ""CosmicLight Satellite""";electronic;120;39;48
+"Electric Bike ""E-Bike Thunder""";electronic;420;89;4
+"Gaming Laptop ""GameMaster X9""";electronic;2500;31;30
+"Modern Robot Vacuum ""CleanBot Turbo""";electronic;300;29;30
+"Interactive Drawing Board ""ArtCanvas Pro""";electronic;400;77;23
+"High-Precision GPS Tracker ""NavTech Precision""";electronic;150;18;17
+"Kitchen Assistant Robot ""ChefBot Deluxe""";electronic;700;100;36
+"Electric Toothbrush ""DentaCare Smart""";electronic;80;43;19
+"Home Theater Projector ""CineMagic HD""";electronic;99;91;11
+"Smart Glass Table ""TechTable SmartGlass""";electronic;15;80;16
+"Solar Power Bank ""SolarPower Max""";electronic;300;35;47
+"Virtual Assistant ""AI Helper Pro""";electronic;500;41;40
+"Automatic Coffee Maker ""CoffeeMaster Deluxe""";electronic;250;51;34
+"Designer Laptop ""DesignCraft Studio""";electronic;2899;42;11
+Bandages;aid;147;1450;1
+Pain Relief Ointment;aid;201;3738;6
+Digital Thermometer;aid;182;4150;50
+First Aid Kit;aid;123;3394;1
+Antiseptic Wipes;aid;376;2879;9
+Medical Gloves;aid;82;8058;31
+Adhesive Plasters;aid;224;7692;47
+Instant Cold Packs;aid;270;6336;11
+Sterile Gauze Pads;aid;350;8527;5
+Burn Cream;aid;95;9461;5
+Cough Syrup;aid;15;4569;22
+Nasal Spray;aid;20;5339;32
+Ace Bandage;aid;233;1618;8
+Eye Wash Solution;aid;53;5102;42
+Hydrogen Peroxide;aid;293;5311;13
+Tweezers;aid;34;9004;10
+Cotton Swabs;aid;272;1872;47
+Medical Face Masks;aid;111;5597;3
+Surgical Tape;aid;227;3596;29
+Hand Sanitizer;aid;194;3457;42
+Fever Reducer Medication;aid;61;8667;6
+Disposable Syringes;aid;349;2138;13
+Antibacterial Soap;aid;142;2531;49
+Saline Solution;aid;91;6240;33
+Throat Lozenges;aid;12;7286;49
+Allergy Medication;aid;351;5632;42
+Burn Dressing;aid;149;2596;26
+Finger Splint;aid;258;8611;7
+Instant Heat Packs;aid;12;3737;14
+Anti-Itch Cream;aid;369;6742;6
